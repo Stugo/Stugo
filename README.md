@@ -11,6 +11,9 @@
 - <a href="https://github.com/Stugo/Stycktider">Enkel men specifik kalkylator</a> <br>
 - <a href="https://github.com/Stugo/ArtemisJoystickControl">Script för att knyta ihop fysika kontroller med Artemis SBS </a>
 
+<h2>CNC</h2>
+- <a href="https://github.com/Stugo/Heidenhain">Assorted scripts for Heidenhain </a>
+
 <!--
 Hello, lets talk!
 -->
