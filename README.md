@@ -2,6 +2,7 @@
 
 <h2>Blogg</h2>
 - <a href="https://medium.com/@martin.bjorsberg/nyhetspoddar-om-cybers%C3%A4kerhet-6d6fb73b49fc">Nyhetspoddar om cybersäkerhet</a>
+- <a href="https://medium.com/@martin.bjorsberg/poddtips-intervjuer-hackerhistoria-och-djupdykning-ff0eb352c27f">Poddtips: Intervjuer, hackerhistoria och djupdykning</a>
 
 <h2>Azure</h2>
 - <a href="https://github.com/Stugo/Secure-access-workloads">Azureprojekt skrivet i Terraform</a>
