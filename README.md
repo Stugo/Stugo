@@ -1,7 +1,7 @@
 <h1>Martin</h1>
 
 <h2>Blogg</h2>
-- <a href="https://medium.com/@martin.bjorsberg/nyhetspoddar-om-cybers%C3%A4kerhet-6d6fb73b49fc">Nyhetspoddar om cybersäkerhet</a>
+- <a href="https://medium.com/@martin.bjorsberg/nyhetspoddar-om-cybers%C3%A4kerhet-6d6fb73b49fc">Nyhetspoddar om cybersäkerhet</a> <br>
 - <a href="https://medium.com/@martin.bjorsberg/poddtips-intervjuer-hackerhistoria-och-djupdykning-ff0eb352c27f">Poddtips: Intervjuer, hackerhistoria och djupdykning</a>
 
 <h2>Azure</h2>
